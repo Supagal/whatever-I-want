@@ -93,6 +93,5 @@
 'Assets/Scripts/BombHit.js'
 'Assets/Scripts/CoinStuff.js'
 'Assets/Scripts/DestroyOnClick.js'
-'Assets/Scripts/DestroyOnClick.js.js'
 'Assets/Scripts/GameData.js'
 'Assets/Scripts/instantiateGObj.js'

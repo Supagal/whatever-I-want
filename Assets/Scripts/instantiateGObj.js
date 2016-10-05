@@ -2,9 +2,10 @@
 public var gObj : GameObject;
 
 function Start () {
-	InvokeRepeating("CreateRandom ", 0 ,1);
+	InvokeRepeating("CreateRandom", 0 ,1);
 
 	}
+
 function CreateRandom (){
 
 var x : float;
